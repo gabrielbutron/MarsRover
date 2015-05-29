@@ -1,0 +1,6 @@
+G:\MyProjects\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+G:\MyProjects\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+G:\MyProjects\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+G:\MyProjects\MarsRover\MarsRover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
+G:\MyProjects\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+G:\MyProjects\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
